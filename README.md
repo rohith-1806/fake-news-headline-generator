@@ -33,6 +33,3 @@ lists, strings, functions, and the random module.
 
 <h2>Author</h2>
 <p>Perumalla Rohith</p>
-<p>
-Tasleem Sulthana Shaik
-</p>
