@@ -32,4 +32,4 @@ lists, strings, functions, and the random module.
 </p>
 
 <h2>Author</h2>
-<p>Perumalla Rohith</p>
+<p>Perumalla Rohith.</p>
